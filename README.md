@@ -9,9 +9,8 @@
 ### Contact me!
 
 Discord: Rafexy_#0012
-Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
-
 <br />
+Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
 
 ### Languages and Tools:
 
