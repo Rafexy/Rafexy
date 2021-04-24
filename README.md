@@ -31,6 +31,9 @@ Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
 
 <img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
 ---
 
 <details>
