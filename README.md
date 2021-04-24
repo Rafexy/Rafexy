@@ -2,6 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
 
+### My Github Stats!
+
+<img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
+
 ### Spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rafexy Spotify" width="350" />](https://open.spotify.com/user/tbjm072rm6c0khtyrfeq2kjfp)
@@ -35,12 +39,5 @@ Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
 <!--START_SECTION:activity-->
 1. Im coding a Discord Bot :star:
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>Stats</summary>
-
-  <img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
 
 </details>
