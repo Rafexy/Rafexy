@@ -41,6 +41,6 @@ Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
 <details>
   <summary>Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rafe's GitHub Stats" src="github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
 
 </details>
