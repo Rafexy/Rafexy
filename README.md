@@ -1,11 +1,16 @@
-### Hi, I'm Rafe!
+### Hi, I'm Rafexy!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
+[![Discord](https://img.shields.io/discord/700278928576741408?logo=Discord&style=for-the-badge)](https://discord.gg/TrhG5rq)
+
+---
 
 ### Spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rafexy Spotify" width="350" />](https://open.spotify.com/user/tbjm072rm6c0khtyrfeq2kjfp)
+![Discord](https://img.shields.io/discord/700278928576741408?label=Discord&style=plastic)
 ---
+
 ### My Github Stats!
 
 <img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
