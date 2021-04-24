@@ -8,8 +8,7 @@
 ### Spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rafexy Spotify" width="350" />](https://open.spotify.com/user/tbjm072rm6c0khtyrfeq2kjfp)
-![Discord](https://img.shields.io/discord/700278928576741408?label=Discord&style=plastic)
----
+
 
 ### My Github Stats!
 
