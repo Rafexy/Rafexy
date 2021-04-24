@@ -5,7 +5,7 @@
 ### Spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rafexy Spotify" width="350" />](https://open.spotify.com/user/tbjm072rm6c0khtyrfeq2kjfp)
-
+---
 ### My Github Stats!
 
 <img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
@@ -20,7 +20,6 @@
 <br />
 
 ---
-
 ### Contact me!
 
 Discord: Rafexy_#0012
