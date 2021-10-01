@@ -1,7 +1,6 @@
 ### Hi, I'm Rafexy!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
-[![Discord](https://img.shields.io/discord/700278928576741408?logo=Discord&style=for-the-badge)]
 
 ---
 ### My Github Stats!
