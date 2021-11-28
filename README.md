@@ -1,11 +1,14 @@
-### Hi, I'm Rafexy!
+### I'm Rafe, welcome to my profile! 
+
+##About Me:
+I am a software developer, I develop in many languages such as Java, JavaScript (Node, React), TypeScript, I also have experience with MySQL, Jetbrains IDE (IntelliJ, PHPStorm, Webstorm Datagrip), Visual Studio (code), Git products as well as Github.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
 
 ---
 ### My Github Stats!
 
-<img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=false" />
+<img align="left" alt="My GitHub Statistics" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=false" />
 
 <br />
 <br />
@@ -43,6 +46,7 @@ Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
 <details>
   <summary>My GitHub Activity</summary>
 <!--START_SECTION:activity-->
+  I currently manage and work for Hylist Games, which holds the two networks ArcaneCC and VeltPvP
 <!--END_SECTION:activity-->
 
 </details>
