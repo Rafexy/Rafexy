@@ -5,7 +5,7 @@
 ---
 ### My Github Stats!
 
-<img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=true" />
+<img align="left" alt="Rafe's GitHub Stats" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=false" />
 
 <br />
 <br />
