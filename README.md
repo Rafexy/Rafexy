@@ -44,7 +44,9 @@ Discord: Rafexy_#0012
 <details>
   <summary>My GitHub Activity</summary>
 <!--START_SECTION:activity-->
-  I currently manage and work for Hylist Games, which holds the two networks ArcaneCC and VeltPvP
+  
+  I currently work for Hylist Games, which holds the two Minecraft networks: ArcaneCC and VeltPvP.
+  
 <!--END_SECTION:activity-->
 
 </details>
