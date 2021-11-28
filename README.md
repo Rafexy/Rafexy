@@ -2,8 +2,7 @@
 
 I am a software developer, I develop in many languages such as Java, JavaScript (Node, React), TypeScript, I also have experience with MySQL, Jetbrains IDE (IntelliJ, PHPStorm, Webstorm Datagrip), Visual Studio (code), Git products as well as Github.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
-
+Below are a list of my current GitHub stats!
 ---
 ### My Github Stats!
 
@@ -24,6 +23,7 @@ I am a software developer, I develop in many languages such as Java, JavaScript 
 Discord: Rafexy_#0012
 <br />
 Twitter: [@Rafexy_](https://twitter.com/Rafexy_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
 
 ### Languages and Tools:
 
