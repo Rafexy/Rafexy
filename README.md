@@ -1,4 +1,4 @@
-### I'm Rafe, welcome to my profile! 
+### I'm Rafe, welcome to my profile! 👋
 
 I am a software developer, I develop in many languages such as Java, JavaScript (Node, React), TypeScript, I also have experience with MySQL, Jetbrains IDE (IntelliJ, PHPStorm, Webstorm Datagrip), Visual Studio (code), Git products as well as Github.
 
