@@ -1,6 +1,15 @@
 ### I'm Rafe, welcome to my profile! 👋
 
-I am a software developer, I code in languages such as Java, JavaScript (Node, React), and TypeScript. I also have experience with MySQL, Jetbrains IDE (IntelliJ, PHPStorm, Webstorm, Datagrip), Visual Studio (code), Git products as well as Github.
+### Languages and programs I know and/or work with.
+* Java
+* JavaScript (Node, React)
+* TypeScript
+* MySQL
+* Jetbrains products such as IntelliJ, PHPStorm, WebStorm, DataGrip
+* Jira
+* Redis
+* Visual Studio
+* Git(hub)
 
 Below are a list of my current GitHub stats!
 ---
