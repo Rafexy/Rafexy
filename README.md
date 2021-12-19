@@ -29,7 +29,7 @@ Below are a list of my current GitHub stats!
 ---
 ### Contact me!
 
-<img src="https://img.shields.io/badge/-Rafexy_%230012-085e8b?style=flat-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Rafexy___%230012-085e8b?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Rafexy___-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rafexy_"/>
 
 ### Languages and Tools:
