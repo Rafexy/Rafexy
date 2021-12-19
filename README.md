@@ -1,4 +1,4 @@
-### I'm Rafe, welcome to my profile! 👋
+### I'm Rafe, welcome to my profile! <img src="https://i.kym-cdn.com/photos/images/original/000/592/896/9f4.gif"/><br/>
 
 ### Languages and programs I know and/or work with.
 * Java
