@@ -31,7 +31,7 @@ Below are a list of my current GitHub stats!
 
 <img src="https://img.shields.io/badge/-Rafexy_%230012-085e8b?style=flat-square&logo=Discord&logoColor=white"/>
 <br />
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
+<img src="https://img.shields.io/badge/-Rafe-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rafexy_"/>
 
 ### Languages and Tools:
 
