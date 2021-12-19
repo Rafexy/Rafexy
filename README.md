@@ -15,7 +15,7 @@ Below are a list of my current GitHub stats!
 ---
 ### My Github Stats!
 
-<img align="left" alt="My GitHub Statistics" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&hide_border=false" />
+<img align="center" alt="My GitHub Statistics" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
 
 <br />
 <br />
@@ -29,7 +29,7 @@ Below are a list of my current GitHub stats!
 ---
 ### Contact me!
 
-Discord: Rafexy_#0012
+<img src="https://img.shields.io/badge/-Rafexy_%230012-085e8b?style=flat-square&logo=Discord&logoColor=white"/>
 <br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rafexy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rafexy_)
 
