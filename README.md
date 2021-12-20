@@ -22,8 +22,6 @@ Below are a list of my current GitHub stats!
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ---
 ### Contact me!
