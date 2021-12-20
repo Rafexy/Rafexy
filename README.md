@@ -1,5 +1,5 @@
 ### I'm Rafe, welcome to my profile! <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1"/><br/>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xSuperr&count_private=true&theme=react&show_icons=true&include_all_commits=true)
 ### Languages and programs I know and/or work with.
 * Java
 * JavaScript (Node, React)
