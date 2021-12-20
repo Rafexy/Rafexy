@@ -15,7 +15,7 @@ Below are a list of my current GitHub stats!
 ### My Github Stats!
 
 <img align="left" alt="My GitHub Statistics" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&theme=highcontrast&line_height=27" />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/ username=Rafexy_&count_private=true&theme=react&show_icons=true&include_all_commits=true")
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=Rafexy_&count_private=true&theme=react&show_icons=true&include_all_commits=true")
 <br />
 <br />
 <br />
