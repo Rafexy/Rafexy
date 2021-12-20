@@ -16,7 +16,7 @@ Below are a list of my current GitHub stats!
 
 <img align="left" alt="My GitHub Statistics" src="https://rafexyme.vercel.app/api?username=Rafexy&show_icons=true&theme=highcontrast&line_height=27" />
 <img align="center" alt="Languages" src="https://rafexyme.vercel.app/api/top-langs/?username=Rafexy&count_private=true&theme=highcontrast&layout=compact&show_icons=true&include_all_commits=true" />
-<br />
+
 <br />
 
 ---
