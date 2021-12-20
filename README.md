@@ -1,5 +1,4 @@
 ### I'm Rafe, welcome to my profile! <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1"/><br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xSuperr&count_private=true&theme=react&show_icons=true&include_all_commits=true)
 ### Languages and programs I know and/or work with.
 * Java
 * JavaScript (Node, React)
@@ -16,7 +15,7 @@ Below are a list of my current GitHub stats!
 ### My Github Stats!
 
 <img align="left" alt="My GitHub Statistics" src="https://github-readme-stats-lilac-pi.vercel.app/api?username=Rafexy&show_icons=true&theme=highcontrast&line_height=27" />
-
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Rafexy_&count_private=true&theme=react&show_icons=true&include_all_commits=true" />
 <br />
 <br />
 <br />
