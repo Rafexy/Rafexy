@@ -4,7 +4,7 @@
 * JavaScript (Node, React)
 * TypeScript
 * MySQL
-* Jetbrains products such as IntelliJ, PHPStorm, WebStorm, DataGrip
+* Jetbrains products such as IntelliJ, WebStorm, DataGrip
 * Jira
 * Redis
 * Visual Studio
