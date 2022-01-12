@@ -46,7 +46,8 @@ Below are a list of my current GitHub stats!
   <summary>My GitHub Activity</summary>
 <!--START_SECTION:activity-->
   
-  I currently work for Hylist Games, which holds the two Minecraft networks: ArcaneCC and VeltPvP.
+Working on an Anticheat,
+Working @ LimeCloud Network and OwnagePE
   
 <!--END_SECTION:activity-->
 
