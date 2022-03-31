@@ -47,7 +47,7 @@ Below are a list of my current GitHub stats!
 <!--START_SECTION:activity-->
   
 Working on an Anticheat,
-Working @ LimeCloud Network and OwnagePE
+Working @ OwnagePE
   
 <!--END_SECTION:activity-->
 
