@@ -45,8 +45,7 @@ Below are a list of my current GitHub stats!
   <summary>My GitHub Activity</summary>
 <!--START_SECTION:activity-->
   
-Working on an Anticheat,
-Working @ OwnagePE
+Freelance development projects.
   
 <!--END_SECTION:activity-->
 
