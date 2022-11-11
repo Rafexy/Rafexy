@@ -9,6 +9,7 @@
 * Redis
 * Visual Studio
 * Git
+* Spigot, Bungee work.
 * This is not a complete list I just can't be bothered to update my profile.
 
 ---
