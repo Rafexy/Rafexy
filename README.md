@@ -1,6 +1,6 @@
 ### I'm Rafe, welcome to my profile! <img align="right" src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1"/><br/>
 ### I am a Spigot and Freelance developer of all sorts.
-### Languages and programs I know and/or work with.
+### Languages I know and work with.
 * Java
 * JavaScript (Node, React)
 * TypeScript
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-Raf%234817-085e8b?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Rafexy___-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rafexy_"/>
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jetbrains Products" width="26px" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" />
